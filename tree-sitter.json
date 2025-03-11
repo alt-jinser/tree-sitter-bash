@@ -13,6 +13,7 @@
         "ebuild",
         "eclass"
       ],
+      "highlights": "queries/highlights.scm",
       "injection-regex": "^(shell|bash|sh)$",
       "first-line-regex": "^#!.*\\b(sh|bash|dash)\\b.*$"
     }
